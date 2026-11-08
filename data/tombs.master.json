@@ -1,0 +1,2570 @@
+{
+  "meta": {
+    "title": "中国帝陵总览",
+    "updated": "2026-11",
+    "note": "手工整理：以中国历代帝王陵墓（含追尊陵、陵区、衣冠冢/纪念陵）为主；坐标为 WGS84 近似初值，OSM 匹配后自动校正。"
+  },
+  "tombs": [
+    {
+      "id": "qin-shihuang",
+      "name": "秦始皇陵",
+      "dynasty": "秦",
+      "era": "秦",
+      "owner": "秦始皇嬴政",
+      "kind": "帝陵",
+      "year": -210,
+      "province": "陕西省",
+      "city": "西安市",
+      "county": "临潼区",
+      "lat": 34.3814,
+      "lng": 109.2538,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A"
+      ],
+      "note": "骊山北麓，中国第一座帝王陵，兵马俑为其陪葬坑。"
+    },
+    {
+      "id": "qin-ershi",
+      "name": "秦二世陵",
+      "dynasty": "秦",
+      "era": "秦",
+      "owner": "秦二世胡亥",
+      "kind": "帝陵",
+      "year": -207,
+      "province": "陕西省",
+      "city": "西安市",
+      "county": "雁塔区",
+      "lat": 34.196,
+      "lng": 108.974,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [],
+      "note": "曲江池南岸的胡亥墓，现为秦二世陵遗址公园。"
+    },
+    {
+      "id": "han-changling",
+      "name": "长陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉高祖刘邦",
+      "kind": "帝陵",
+      "year": -195,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.4348,
+      "lng": 108.8766,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "咸阳原上西汉帝陵之首，与吕后陵共处一陵园。"
+    },
+    {
+      "id": "han-anling",
+      "name": "安陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉惠帝刘盈",
+      "kind": "帝陵",
+      "year": -188,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.4231,
+      "lng": 108.8414,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "与长陵相邻，同处咸阳原陵区。"
+    },
+    {
+      "id": "han-baling",
+      "name": "霸陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉文帝刘恒",
+      "kind": "帝陵",
+      "year": -157,
+      "province": "陕西省",
+      "city": "西安市",
+      "county": "灞桥区",
+      "lat": 34.238,
+      "lng": 109.043,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "白鹿原江村大墓，2021 年确认霸陵所在，不封不树的薄葬典范。",
+      "matchNames": [
+        "汉文帝霸陵",
+        "江村大墓"
+      ]
+    },
+    {
+      "id": "han-yangling",
+      "name": "阳陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉景帝刘启",
+      "kind": "帝陵",
+      "year": -141,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.4433,
+      "lng": 108.9423,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保",
+        "4A"
+      ],
+      "note": "汉阳陵博物院，地下遗址博物馆与原址展示结合，最易参观的西汉帝陵。"
+    },
+    {
+      "id": "han-maoling",
+      "name": "茂陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉武帝刘彻",
+      "kind": "帝陵",
+      "year": -87,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "兴平市",
+      "lat": 34.3379,
+      "lng": 108.5693,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "西汉帝陵中规模最大、陪葬品最丰，陵区有霍去病、卫青墓。"
+    },
+    {
+      "id": "han-pingling",
+      "name": "平陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉昭帝刘弗陵",
+      "kind": "帝陵",
+      "year": -74,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "秦都区",
+      "lat": 34.3618,
+      "lng": 108.6404,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "咸阳原西端，与上官皇后陵并峙。"
+    },
+    {
+      "id": "han-duling",
+      "name": "杜陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉宣帝刘询",
+      "kind": "帝陵",
+      "year": -49,
+      "province": "陕西省",
+      "city": "西安市",
+      "county": "雁塔区",
+      "lat": 34.1811,
+      "lng": 109.0227,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "西安东南杜东原上，现为杜陵遗址生态公园。"
+    },
+    {
+      "id": "han-weiling",
+      "name": "渭陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉元帝刘奭",
+      "kind": "帝陵",
+      "year": -33,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.415,
+      "lng": 108.71,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "咸阳原上周陵一带。"
+    },
+    {
+      "id": "han-yanling",
+      "name": "延陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉成帝刘骜",
+      "kind": "帝陵",
+      "year": -7,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.3749,
+      "lng": 108.698,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "咸阳原西北，与渭陵相邻。"
+    },
+    {
+      "id": "han-yiling",
+      "name": "义陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉哀帝刘欣",
+      "kind": "帝陵",
+      "year": -1,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.353,
+      "lng": 108.662,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "咸阳原上，封土保存较好。"
+    },
+    {
+      "id": "han-kangling",
+      "name": "康陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉平帝刘衎",
+      "kind": "帝陵",
+      "year": 5,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.34,
+      "lng": 108.615,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "西汉最后一座帝陵。"
+    },
+    {
+      "id": "han-taishanghuang",
+      "name": "万年陵",
+      "dynasty": "西汉",
+      "era": "汉",
+      "owner": "汉太上皇刘太公",
+      "kind": "追尊陵",
+      "year": -197,
+      "province": "陕西省",
+      "city": "西安市",
+      "county": "临潼区",
+      "lat": 34.6927,
+      "lng": 109.2149,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "刘邦之父陵，荆山原上，与献陵相邻。",
+      "matchNames": [
+        "汉太上皇陵",
+        "太上皇陵"
+      ]
+    },
+    {
+      "id": "han-guangwu",
+      "name": "原陵",
+      "dynasty": "东汉",
+      "era": "汉",
+      "owner": "汉光武帝刘秀",
+      "kind": "帝陵",
+      "year": 57,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "孟津区",
+      "lat": 34.868,
+      "lng": 112.563,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "黄河岸边白鹤镇，东汉唯一位置明确、已建成景区的帝陵。",
+      "matchNames": [
+        "汉光武帝陵",
+        "光武帝陵",
+        "刘秀坟"
+      ]
+    },
+    {
+      "id": "han-xiandi",
+      "name": "禅陵",
+      "dynasty": "东汉",
+      "era": "汉",
+      "owner": "汉献帝刘协",
+      "kind": "帝陵",
+      "year": 234,
+      "province": "河南省",
+      "city": "焦作市",
+      "county": "修武县",
+      "lat": 35.24,
+      "lng": 113.4,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "东汉末帝，山阳公葬地。"
+    },
+    {
+      "id": "han-mangshan",
+      "name": "东汉邙山帝陵区",
+      "dynasty": "东汉",
+      "era": "汉",
+      "owner": "明帝至灵帝等十陵",
+      "kind": "陵区",
+      "year": null,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "孟津区/偃师区",
+      "lat": 34.78,
+      "lng": 112.5,
+      "precision": "low",
+      "status": "待考",
+      "tags": [
+        "国保"
+      ],
+      "note": "邙山、伊洛河南岸分布十余座东汉帝陵，除原陵外多未最终确认，近年考古确认朱仓、大汉冢等陵园。"
+    },
+    {
+      "id": "caowei-caocao",
+      "name": "曹操高陵",
+      "dynasty": "曹魏",
+      "era": "魏晋南北朝",
+      "owner": "魏武帝曹操",
+      "kind": "帝陵",
+      "year": 220,
+      "province": "河南省",
+      "city": "安阳市",
+      "county": "安阳县",
+      "lat": 36.225,
+      "lng": 114.21,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "安丰乡西高穴村，2009 年确认，2023 年遗址博物馆开放。"
+    },
+    {
+      "id": "caowei-shouyang",
+      "name": "曹魏首阳陵区",
+      "dynasty": "曹魏",
+      "era": "魏晋南北朝",
+      "owner": "魏文帝曹丕等",
+      "kind": "陵区",
+      "year": null,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "偃师区",
+      "lat": 34.77,
+      "lng": 112.73,
+      "precision": "low",
+      "status": "待考",
+      "tags": [],
+      "note": "曹丕首阳陵、曹叡高平陵等均在这一带，具体位置尚待考古确认。"
+    },
+    {
+      "id": "xijin-lingqu",
+      "name": "西晋帝陵区",
+      "dynasty": "西晋",
+      "era": "魏晋南北朝",
+      "owner": "晋武帝司马炎等五陵",
+      "kind": "陵区",
+      "year": null,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "偃师区",
+      "lat": 34.74,
+      "lng": 112.72,
+      "precision": "low",
+      "status": "待考",
+      "tags": [],
+      "note": "峻阳陵、太阳陵等五陵在首阳山一带，未逐一确认。"
+    },
+    {
+      "id": "dongjin-gongdi",
+      "name": "冲平陵",
+      "dynasty": "东晋",
+      "era": "魏晋南北朝",
+      "owner": "晋恭帝司马德文",
+      "kind": "帝陵",
+      "year": 421,
+      "province": "江苏省",
+      "city": "南京市",
+      "county": "玄武区",
+      "lat": 32.063,
+      "lng": 118.817,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "富贵山南麓，1964 年发掘确认的东晋帝陵。",
+      "matchNames": [
+        "冲平陵",
+        "晋恭帝冲平陵",
+        "晋恭帝陵"
+      ]
+    },
+    {
+      "id": "dongjin-lingqu",
+      "name": "东晋建康帝陵区",
+      "dynasty": "东晋",
+      "era": "魏晋南北朝",
+      "owner": "晋元帝等十陵",
+      "kind": "陵区",
+      "year": null,
+      "province": "江苏省",
+      "city": "南京市",
+      "county": "玄武区/栖霞区",
+      "lat": 32.07,
+      "lng": 118.8,
+      "precision": "low",
+      "status": "待考",
+      "tags": [],
+      "note": "鸡笼山、钟山南麓一带，多数陵位未确证。"
+    },
+    {
+      "id": "beiwei-yonggu",
+      "name": "方山永固陵",
+      "dynasty": "北魏",
+      "era": "魏晋南北朝",
+      "owner": "文明太后冯氏",
+      "kind": "后陵",
+      "year": 490,
+      "province": "山西省",
+      "city": "大同市",
+      "county": "新荣区",
+      "lat": 40.13,
+      "lng": 113.3,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "北魏平城时期规模最大的陵墓，方山之上，旁有孝文帝寿陵万年堂。"
+    },
+    {
+      "id": "beiwei-changling",
+      "name": "长陵",
+      "dynasty": "北魏",
+      "era": "魏晋南北朝",
+      "owner": "魏孝文帝元宏",
+      "kind": "帝陵",
+      "year": 499,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "孟津区",
+      "lat": 34.76,
+      "lng": 112.42,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "邙山陵区核心，迁洛后北魏帝陵之首。"
+    },
+    {
+      "id": "beiwei-jingling",
+      "name": "景陵",
+      "dynasty": "北魏",
+      "era": "魏晋南北朝",
+      "owner": "魏宣武帝元恪",
+      "kind": "帝陵",
+      "year": 515,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "孟津区",
+      "lat": 34.77,
+      "lng": 112.43,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "洛阳古墓博物馆附近，封土与陵园格局清晰。"
+    },
+    {
+      "id": "beiwei-lingqu",
+      "name": "北魏邙山陵区",
+      "dynasty": "北魏",
+      "era": "魏晋南北朝",
+      "owner": "孝明帝、孝庄帝等",
+      "kind": "陵区",
+      "year": null,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "孟津区",
+      "lat": 34.78,
+      "lng": 112.44,
+      "precision": "low",
+      "status": "待考",
+      "tags": [],
+      "note": "邙山一带北魏帝陵群，定陵、静陵等位置尚有争议。"
+    },
+    {
+      "id": "xiwei-yongling",
+      "name": "永陵",
+      "dynasty": "西魏",
+      "era": "魏晋南北朝",
+      "owner": "西魏文帝元宝炬",
+      "kind": "帝陵",
+      "year": 551,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.84,
+      "lng": 109.16,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "富平留古镇一带，与北周文帝成陵相距不远。"
+    },
+    {
+      "id": "beiqi-wuning",
+      "name": "武宁陵",
+      "dynasty": "北齐",
+      "era": "魏晋南北朝",
+      "owner": "北齐文宣帝高洋",
+      "kind": "帝陵",
+      "year": 559,
+      "province": "河北省",
+      "city": "邯郸市",
+      "county": "磁县",
+      "lat": 36.36,
+      "lng": 114.41,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "湾漳北朝墓，推测为高洋武宁陵，出土大型壁画。",
+      "matchNames": [
+        "湾漳北朝墓",
+        "湾漳墓",
+        "北齐文宣帝高洋",
+        "高洋墓"
+      ]
+    },
+    {
+      "id": "beizhou-xiaoling",
+      "name": "孝陵",
+      "dynasty": "北周",
+      "era": "魏晋南北朝",
+      "owner": "北周武帝宇文邕",
+      "kind": "帝陵",
+      "year": 578,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "渭城区",
+      "lat": 34.4612,
+      "lng": 108.8204,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "底张湾，1993 年发掘确认，北周帝陵唯一确证者。"
+    },
+    {
+      "id": "beizhou-chengling",
+      "name": "成陵",
+      "dynasty": "北周",
+      "era": "魏晋南北朝",
+      "owner": "北周文帝宇文泰",
+      "kind": "追尊陵",
+      "year": 556,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.8328,
+      "lng": 109.144,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "宇文泰追尊为文帝，陵在富平。"
+    },
+    {
+      "id": "song-chuning",
+      "name": "初宁陵",
+      "dynasty": "南朝宋",
+      "era": "魏晋南北朝",
+      "owner": "宋武帝刘裕",
+      "kind": "帝陵",
+      "year": 422,
+      "province": "江苏省",
+      "city": "南京市",
+      "county": "栖霞区",
+      "lat": 32.1,
+      "lng": 118.92,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "麒麟铺，陵前石刻尚存。"
+    },
+    {
+      "id": "qi-taian",
+      "name": "泰安陵",
+      "dynasty": "南朝齐",
+      "era": "魏晋南北朝",
+      "owner": "齐高帝萧道成",
+      "kind": "帝陵",
+      "year": 482,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.05,
+      "lng": 119.63,
+      "precision": "low",
+      "status": "待考",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳胡桥一带，丹阳齐梁帝陵群之一，位置尚待确认。",
+      "matchNames": [
+        "齐高帝萧道成",
+        "泰安陵石刻"
+      ]
+    },
+    {
+      "id": "qi-yongan",
+      "name": "永安陵",
+      "dynasty": "南朝齐",
+      "era": "魏晋南北朝",
+      "owner": "齐宣帝萧承之（追尊）",
+      "kind": "追尊陵",
+      "year": 479,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.09,
+      "lng": 119.65,
+      "precision": "low",
+      "status": "待考",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳建山一带，陵前石刻尚存。"
+    },
+    {
+      "id": "qi-xiuan",
+      "name": "修安陵",
+      "dynasty": "南朝齐",
+      "era": "魏晋南北朝",
+      "owner": "齐景帝萧道生（追尊）",
+      "kind": "追尊陵",
+      "year": 494,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.07,
+      "lng": 119.66,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳胡桥仙塘湾，陵前石兽精美。"
+    },
+    {
+      "id": "qi-xingan",
+      "name": "兴安陵",
+      "dynasty": "南朝齐",
+      "era": "魏晋南北朝",
+      "owner": "齐明帝萧鸾",
+      "kind": "帝陵",
+      "year": 498,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.065,
+      "lng": 119.66,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳荆林一带，位置待考。"
+    },
+    {
+      "id": "liang-jianling",
+      "name": "建陵",
+      "dynasty": "南朝梁",
+      "era": "魏晋南北朝",
+      "owner": "梁文帝萧顺之（追尊）",
+      "kind": "追尊陵",
+      "year": 502,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.06,
+      "lng": 119.65,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳荆林三城巷，石刻保存较好。"
+    },
+    {
+      "id": "liang-xiuling",
+      "name": "修陵",
+      "dynasty": "南朝梁",
+      "era": "魏晋南北朝",
+      "owner": "梁武帝萧衍",
+      "kind": "帝陵",
+      "year": 549,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.04,
+      "lng": 119.62,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳三城巷，陵前石天禄、麒麟。",
+      "matchNames": [
+        "梁武帝萧衍",
+        "梁武帝修陵石刻"
+      ]
+    },
+    {
+      "id": "liang-zhuangling",
+      "name": "庄陵",
+      "dynasty": "南朝梁",
+      "era": "魏晋南北朝",
+      "owner": "梁简文帝萧纲",
+      "kind": "帝陵",
+      "year": 551,
+      "province": "江苏省",
+      "city": "镇江市",
+      "county": "丹阳市",
+      "lat": 32.03,
+      "lng": 119.61,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "丹阳陵口附近。"
+    },
+    {
+      "id": "chen-wanan",
+      "name": "万安陵",
+      "dynasty": "南朝陈",
+      "era": "魏晋南北朝",
+      "owner": "陈武帝陈霸先",
+      "kind": "帝陵",
+      "year": 559,
+      "province": "江苏省",
+      "city": "南京市",
+      "county": "江宁区",
+      "lat": 31.96,
+      "lng": 118.87,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "江宁上坊，陵前石兽存。",
+      "matchNames": [
+        "万安陵",
+        "陈武帝万安陵"
+      ]
+    },
+    {
+      "id": "sui-wendi",
+      "name": "泰陵",
+      "dynasty": "隋",
+      "era": "隋唐",
+      "owner": "隋文帝杨坚",
+      "kind": "帝陵",
+      "year": 604,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "杨陵区",
+      "lat": 34.288,
+      "lng": 108.0227,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "杨凌五泉镇，隋文帝与独孤皇后合葬，封土与陵园尚存。"
+    },
+    {
+      "id": "sui-yangdi",
+      "name": "隋炀帝陵",
+      "dynasty": "隋",
+      "era": "隋唐",
+      "owner": "隋炀帝杨广",
+      "kind": "帝陵",
+      "year": 618,
+      "province": "江苏省",
+      "city": "扬州市",
+      "county": "邗江区",
+      "lat": 32.42,
+      "lng": 119.43,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "2013 年确认的扬州曹庄隋炀帝墓，现已建成遗址公园。"
+    },
+    {
+      "id": "tang-xianling",
+      "name": "献陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐高祖李渊",
+      "kind": "帝陵",
+      "year": 635,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "三原县",
+      "lat": 34.6996,
+      "lng": 109.1313,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "唐十八陵之首，封土为陵（覆斗形）。"
+    },
+    {
+      "id": "tang-zhaoling",
+      "name": "昭陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐太宗李世民",
+      "kind": "帝陵",
+      "year": 649,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "礼泉县",
+      "lat": 34.6343,
+      "lng": 108.4839,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保",
+        "4A"
+      ],
+      "note": "九嵕山因山为陵，陪葬墓 180 余座，昭陵六骏闻名。"
+    },
+    {
+      "id": "tang-qianling",
+      "name": "乾陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐高宗李治与武则天",
+      "kind": "帝陵",
+      "year": 705,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "乾县",
+      "lat": 34.5755,
+      "lng": 108.2139,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保",
+        "4A"
+      ],
+      "note": "梁山因山为陵，唐陵中唯一未被盗掘的帝陵，无字碑、述圣纪碑。"
+    },
+    {
+      "id": "tang-dingling",
+      "name": "定陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐中宗李显",
+      "kind": "帝陵",
+      "year": 710,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.8672,
+      "lng": 109.1472,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "凤凰山因山为陵。"
+    },
+    {
+      "id": "tang-qiaoling",
+      "name": "桥陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐睿宗李旦",
+      "kind": "帝陵",
+      "year": 716,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "蒲城县",
+      "lat": 34.947,
+      "lng": 109.526,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "丰山，开元盛世所建，神道石刻体量最大。"
+    },
+    {
+      "id": "tang-tailing",
+      "name": "泰陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐玄宗李隆基",
+      "kind": "帝陵",
+      "year": 762,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "蒲城县",
+      "lat": 35.0407,
+      "lng": 109.6674,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "金粟山因山为陵，安史之乱后营建。"
+    },
+    {
+      "id": "tang-jianling",
+      "name": "建陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐肃宗李亨",
+      "kind": "帝陵",
+      "year": 762,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "礼泉县",
+      "lat": 34.735,
+      "lng": 108.545,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "武将山，陵区石刻保存完整。"
+    },
+    {
+      "id": "tang-yuanling",
+      "name": "元陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐代宗李豫",
+      "kind": "帝陵",
+      "year": 779,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.8674,
+      "lng": 109.0876,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "檀山，位于富平。"
+    },
+    {
+      "id": "tang-chongling",
+      "name": "崇陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐德宗李适",
+      "kind": "帝陵",
+      "year": 805,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "泾阳县",
+      "lat": 34.678,
+      "lng": 108.678,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "嵯峨山，因山为陵。"
+    },
+    {
+      "id": "tang-fengling",
+      "name": "丰陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐顺宗李诵",
+      "kind": "帝陵",
+      "year": 806,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.825,
+      "lng": 109.165,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "金瓮山。"
+    },
+    {
+      "id": "tang-jingling",
+      "name": "景陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐宪宗李纯",
+      "kind": "帝陵",
+      "year": 820,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "蒲城县",
+      "lat": 34.99,
+      "lng": 109.61,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "金帜山，元和之治后所葬。"
+    },
+    {
+      "id": "tang-guangling",
+      "name": "光陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐穆宗李恒",
+      "kind": "帝陵",
+      "year": 824,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "蒲城县",
+      "lat": 35.05,
+      "lng": 109.68,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "尧山。"
+    },
+    {
+      "id": "tang-zhuangling",
+      "name": "庄陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐敬宗李湛",
+      "kind": "帝陵",
+      "year": 826,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "三原县",
+      "lat": 34.66,
+      "lng": 109.09,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "三原陵前镇。"
+    },
+    {
+      "id": "tang-zhangling",
+      "name": "章陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐文宗李昂",
+      "kind": "帝陵",
+      "year": 840,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.8814,
+      "lng": 109.1189,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "天乳山。"
+    },
+    {
+      "id": "tang-duanling",
+      "name": "端陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐武宗李炎",
+      "kind": "帝陵",
+      "year": 846,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "三原县",
+      "lat": 34.6964,
+      "lng": 109.0864,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "三原徐木原，封土为陵。"
+    },
+    {
+      "id": "tang-zhenling",
+      "name": "贞陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐宣宗李忱",
+      "kind": "帝陵",
+      "year": 859,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "泾阳县",
+      "lat": 34.72,
+      "lng": 108.65,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "仲山，大中之治后所葬。"
+    },
+    {
+      "id": "tang-jianling2",
+      "name": "简陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐懿宗李漼",
+      "kind": "帝陵",
+      "year": 873,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "富平县",
+      "lat": 34.8781,
+      "lng": 109.0518,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "紫金山。"
+    },
+    {
+      "id": "tang-jingling2",
+      "name": "靖陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐僖宗李儇",
+      "kind": "帝陵",
+      "year": 888,
+      "province": "陕西省",
+      "city": "咸阳市",
+      "county": "乾县",
+      "lat": 34.571,
+      "lng": 108.266,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "乾陵东南，唐十八陵中最后一座在关中的帝陵。"
+    },
+    {
+      "id": "tang-heling",
+      "name": "和陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐昭宗李晔",
+      "kind": "帝陵",
+      "year": 904,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "偃师区",
+      "lat": 34.72,
+      "lng": 112.78,
+      "precision": "low",
+      "status": "待考",
+      "tags": [
+        "国保"
+      ],
+      "note": "唐末二陵之一，位于偃师，位置记载较晚。"
+    },
+    {
+      "id": "tang-wenling",
+      "name": "温陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "唐哀帝李柷",
+      "kind": "帝陵",
+      "year": 908,
+      "province": "山东省",
+      "city": "菏泽市",
+      "county": "定陶区",
+      "lat": 35.24,
+      "lng": 115.48,
+      "precision": "low",
+      "status": "待考",
+      "tags": [
+        "国保"
+      ],
+      "note": "唐末帝陵，位于菏泽定陶一带。",
+      "matchNames": [
+        "唐哀帝陵",
+        "温陵石刻"
+      ]
+    },
+    {
+      "id": "tang-huiling",
+      "name": "惠陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "让皇帝李宪（追尊）",
+      "kind": "追尊陵",
+      "year": 762,
+      "province": "陕西省",
+      "city": "渭南市",
+      "county": "蒲城县",
+      "lat": 34.9748,
+      "lng": 109.5207,
+      "precision": "high",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "唐玄宗长兄李宪之陵，号墓为陵，紧邻桥陵。"
+    },
+    {
+      "id": "tang-gongling",
+      "name": "恭陵",
+      "dynasty": "唐",
+      "era": "隋唐",
+      "owner": "孝敬皇帝李弘（追尊）",
+      "kind": "追尊陵",
+      "year": 675,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "偃师区",
+      "lat": 34.63,
+      "lng": 112.84,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "唐高宗太子李弘之陵，规模宏大，被誉为“中原第一陵”。"
+    },
+    {
+      "id": "houliang-xuanling",
+      "name": "宣陵",
+      "dynasty": "后梁",
+      "era": "五代十国",
+      "owner": "后梁太祖朱温",
+      "kind": "帝陵",
+      "year": 912,
+      "province": "河南省",
+      "city": "洛阳市",
+      "county": "伊川县",
+      "lat": 34.36,
+      "lng": 112.42,
+      "precision": "low",
+      "status": "待考",
+      "tags": [],
+      "note": "伊川白沙镇一带，地面遗存较少。",
+      "matchNames": [
+        "朱温墓",
+        "后梁太祖陵"
+      ]
+    },
+    {
+      "id": "houzhou-songling",
+      "name": "嵩陵",
+      "dynasty": "后周",
+      "era": "五代十国",
+      "owner": "后周太祖郭威",
+      "kind": "帝陵",
+      "year": 954,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "新郑市",
+      "lat": 34.561,
+      "lng": 113.6995,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "位于后周皇陵陵区（郭店镇陵后村一带），与庆陵、顺陵相邻；三陵具体位置建议按现场文保标识确认。",
+      "matchNames": [
+        "后周太祖郭威陵",
+        "郭威陵",
+        "后周嵩陵"
+      ]
+    },
+    {
+      "id": "houzhou-qingling",
+      "name": "庆陵",
+      "dynasty": "后周",
+      "era": "五代十国",
+      "owner": "后周世宗柴荣",
+      "kind": "帝陵",
+      "year": 959,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "新郑市",
+      "lat": 34.5592,
+      "lng": 113.7005,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "后周皇陵陵区内，邻近嵩陵、顺陵；具体位置按现场文保标识确认。"
+    },
+    {
+      "id": "houzhou-shunling",
+      "name": "顺陵",
+      "dynasty": "后周",
+      "era": "五代十国",
+      "owner": "后周恭帝柴宗训",
+      "kind": "帝陵",
+      "year": 973,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "新郑市",
+      "lat": 34.5585,
+      "lng": 113.7022,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "后周皇陵陵区内最南端，邻近嵩陵、庆陵。",
+      "matchNames": [
+        "后周恭帝顺陵",
+        "后周顺陵"
+      ]
+    },
+    {
+      "id": "nantang-erling",
+      "name": "南唐二陵",
+      "dynasty": "南唐",
+      "era": "五代十国",
+      "owner": "李昪（钦陵）、李璟（顺陵）",
+      "kind": "帝陵",
+      "year": 961,
+      "province": "江苏省",
+      "city": "南京市",
+      "county": "江宁区",
+      "lat": 31.9,
+      "lng": 118.79,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "祖堂山南麓，五代十国陵墓中已发掘的重要遗存。"
+    },
+    {
+      "id": "qianshu-yongling",
+      "name": "永陵",
+      "dynasty": "前蜀",
+      "era": "五代十国",
+      "owner": "前蜀高祖王建",
+      "kind": "帝陵",
+      "year": 918,
+      "province": "四川省",
+      "city": "成都市",
+      "county": "金牛区",
+      "lat": 30.674,
+      "lng": 104.047,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "成都王建墓，棺床石刻伎乐名闻天下。",
+      "matchNames": [
+        "王建墓"
+      ]
+    },
+    {
+      "id": "houshu-heling",
+      "name": "和陵",
+      "dynasty": "后蜀",
+      "era": "五代十国",
+      "owner": "后蜀高祖孟知祥",
+      "kind": "帝陵",
+      "year": 934,
+      "province": "四川省",
+      "city": "成都市",
+      "county": "成华区",
+      "lat": 30.75,
+      "lng": 104.11,
+      "precision": "low",
+      "status": "待考",
+      "tags": [
+        "国保"
+      ],
+      "note": "成都北郊磨盘山一带，已发掘。",
+      "matchNames": [
+        "孟知祥墓"
+      ]
+    },
+    {
+      "id": "wuyue-qianwang",
+      "name": "钱王陵",
+      "dynasty": "吴越",
+      "era": "五代十国",
+      "owner": "吴越武肃王钱镠",
+      "kind": "王陵",
+      "year": 932,
+      "province": "浙江省",
+      "city": "杭州市",
+      "county": "临安区",
+      "lat": 30.234,
+      "lng": 119.715,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "临安太庙山，吴越国第一代国王陵。"
+    },
+    {
+      "id": "min-wangshenzhi",
+      "name": "闽王墓",
+      "dynasty": "闽",
+      "era": "五代十国",
+      "owner": "闽太祖王审知",
+      "kind": "王陵",
+      "year": 925,
+      "province": "福建省",
+      "city": "福州市",
+      "county": "晋安区",
+      "lat": 26.13,
+      "lng": 119.33,
+      "precision": "low",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "福州北郊莲花峰下，闽国开国之君王审知墓。",
+      "matchNames": [
+        "王审知墓",
+        "闽王王审知墓"
+      ]
+    },
+    {
+      "id": "nanhan-erling",
+      "name": "南汉二陵",
+      "dynasty": "南汉",
+      "era": "五代十国",
+      "owner": "刘隐（德陵）、刘龑（康陵）",
+      "kind": "王陵",
+      "year": 942,
+      "province": "广东省",
+      "city": "广州市",
+      "county": "番禺区",
+      "lat": 23.05,
+      "lng": 113.39,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "广州大学城，南汉国帝陵，建有南汉二陵博物馆。"
+    },
+    {
+      "id": "song-yongan",
+      "name": "永安陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋宣祖赵弘殷（追尊）",
+      "kind": "追尊陵",
+      "year": 956,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.755,
+      "lng": 112.955,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "巩义宋陵七帝八陵之首，赵匡胤之父陵。"
+    },
+    {
+      "id": "song-yongchang",
+      "name": "永昌陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋太祖赵匡胤",
+      "kind": "帝陵",
+      "year": 976,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.74,
+      "lng": 112.94,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "巩义西村，北宋开国皇帝陵。"
+    },
+    {
+      "id": "song-yongxi",
+      "name": "永熙陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋太宗赵光义",
+      "kind": "帝陵",
+      "year": 997,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.73,
+      "lng": 112.92,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "巩义西村，石雕保存较好。"
+    },
+    {
+      "id": "song-yongding",
+      "name": "永定陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋真宗赵恒",
+      "kind": "帝陵",
+      "year": 1022,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.72,
+      "lng": 112.88,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "巩义蔡庄，宋陵中神道石刻最完整之一。"
+    },
+    {
+      "id": "song-yongzhao",
+      "name": "永昭陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋仁宗赵祯",
+      "kind": "帝陵",
+      "year": 1063,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.76,
+      "lng": 112.98,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "巩义市区，宋陵中已建成遗址公园、最易到访的一座。"
+    },
+    {
+      "id": "song-yonghou",
+      "name": "永厚陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋英宗赵曙",
+      "kind": "帝陵",
+      "year": 1067,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.755,
+      "lng": 112.99,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "与永昭陵东西相望。"
+    },
+    {
+      "id": "song-yongyu",
+      "name": "永裕陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋神宗赵顼",
+      "kind": "帝陵",
+      "year": 1085,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.73,
+      "lng": 113.02,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "巩义八陵村。"
+    },
+    {
+      "id": "song-yongtai",
+      "name": "永泰陵",
+      "dynasty": "北宋",
+      "era": "宋",
+      "owner": "宋哲宗赵煦",
+      "kind": "帝陵",
+      "year": 1100,
+      "province": "河南省",
+      "city": "郑州市",
+      "county": "巩义市",
+      "lat": 34.725,
+      "lng": 113.03,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "北宋最后一座帝陵。"
+    },
+    {
+      "id": "song-liuling",
+      "name": "南宋六陵",
+      "dynasty": "南宋",
+      "era": "宋",
+      "owner": "高宗至度宗六帝",
+      "kind": "陵区",
+      "year": 1187,
+      "province": "浙江省",
+      "city": "绍兴市",
+      "county": "越城区",
+      "lat": 29.985,
+      "lng": 120.675,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "绍兴宝山（攒宫），南宋六帝陵寝，地面仅存遗址与近年考古标识。",
+      "matchNames": [
+        "宋六陵",
+        "南宋六陵"
+      ]
+    },
+    {
+      "id": "liao-zuling",
+      "name": "辽祖陵",
+      "dynasty": "辽",
+      "era": "辽金西夏",
+      "owner": "辽太祖耶律阿保机",
+      "kind": "帝陵",
+      "year": 926,
+      "province": "内蒙古自治区",
+      "city": "赤峰市",
+      "county": "巴林左旗",
+      "lat": 43.88,
+      "lng": 119.42,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "祖州城西北山谷，辽国开国皇帝陵。",
+      "matchNames": [
+        "辽祖陵",
+        "辽祖陵黑龙门"
+      ]
+    },
+    {
+      "id": "liao-qingling",
+      "name": "辽庆陵",
+      "dynasty": "辽",
+      "era": "辽金西夏",
+      "owner": "辽圣宗、兴宗、道宗",
+      "kind": "陵区",
+      "year": 1031,
+      "province": "内蒙古自治区",
+      "city": "赤峰市",
+      "county": "巴林右旗",
+      "lat": 43.44,
+      "lng": 118.38,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "庆云山三陵，辽中后期帝陵，出土大量契丹文石刻。"
+    },
+    {
+      "id": "liao-huailing",
+      "name": "辽怀陵",
+      "dynasty": "辽",
+      "era": "辽金西夏",
+      "owner": "辽太宗、穆宗",
+      "kind": "陵区",
+      "year": 947,
+      "province": "内蒙古自治区",
+      "city": "赤峰市",
+      "county": "巴林右旗",
+      "lat": 43.47,
+      "lng": 118.49,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "巴林右旗岗根一带。"
+    },
+    {
+      "id": "liao-xianling",
+      "name": "辽显陵（医巫闾山陵区）",
+      "dynasty": "辽",
+      "era": "辽金西夏",
+      "owner": "辽世宗、景宗等",
+      "kind": "陵区",
+      "year": null,
+      "province": "辽宁省",
+      "city": "锦州市",
+      "county": "北镇市",
+      "lat": 41.7,
+      "lng": 121.75,
+      "precision": "low",
+      "status": "待考",
+      "tags": [],
+      "note": "辽显陵、乾陵在医巫闾山，具体陵位尚未完全确认。",
+      "matchNames": [
+        "辽显陵",
+        "医巫闾山辽陵"
+      ]
+    },
+    {
+      "id": "jin-jinling",
+      "name": "金陵遗址",
+      "dynasty": "金",
+      "era": "辽金西夏",
+      "owner": "金太祖至卫绍王诸帝",
+      "kind": "陵区",
+      "year": 1150,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "房山区",
+      "lat": 39.72,
+      "lng": 115.95,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "房山周口店九龙山，金代帝陵，睿陵等已考古发掘。"
+    },
+    {
+      "id": "xixia-wangling",
+      "name": "西夏王陵",
+      "dynasty": "西夏",
+      "era": "辽金西夏",
+      "owner": "西夏九帝",
+      "kind": "陵区",
+      "year": 1227,
+      "province": "宁夏回族自治区",
+      "city": "银川市",
+      "county": "西夏区",
+      "lat": 38.44,
+      "lng": 105.99,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保",
+        "4A"
+      ],
+      "note": "贺兰山东麓，9 座帝陵与 200 余座陪葬墓，2025 年列入世界遗产。",
+      "matchNames": [
+        "西夏陵"
+      ]
+    },
+    {
+      "id": "yuan-chengjisihan",
+      "name": "成吉思汗陵",
+      "dynasty": "元",
+      "era": "元",
+      "owner": "成吉思汗（衣冠冢）",
+      "kind": "纪念陵",
+      "year": 1227,
+      "province": "内蒙古自治区",
+      "city": "鄂尔多斯市",
+      "county": "伊金霍洛旗",
+      "lat": 39.37,
+      "lng": 109.79,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "5A",
+        "国保"
+      ],
+      "note": "八白室衣冠冢与祭祀圣地；元代诸帝真陵（起辇谷）至今未发现。",
+      "matchNames": [
+        "成吉思汗陵"
+      ]
+    },
+    {
+      "id": "ming-zuling",
+      "name": "明祖陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明德祖、懿祖、熙祖（追尊）",
+      "kind": "追尊陵",
+      "year": 1385,
+      "province": "江苏省",
+      "city": "淮安市",
+      "county": "盱眙县",
+      "lat": 33.04,
+      "lng": 118.42,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保",
+        "世遗"
+      ],
+      "note": "洪泽湖畔，朱元璋高祖以下三代衣冠冢，明代第一陵。"
+    },
+    {
+      "id": "ming-huangling",
+      "name": "明皇陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明仁祖朱世珍（追尊）",
+      "kind": "追尊陵",
+      "year": 1379,
+      "province": "安徽省",
+      "city": "滁州市",
+      "county": "凤阳县",
+      "lat": 32.87,
+      "lng": 117.52,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保",
+        "世遗"
+      ],
+      "note": "凤阳朱元璋父母陵，神道石刻 32 对保存完好。"
+    },
+    {
+      "id": "ming-xiaoling",
+      "name": "明孝陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明太祖朱元璋",
+      "kind": "帝陵",
+      "year": 1398,
+      "province": "江苏省",
+      "city": "南京市",
+      "county": "玄武区",
+      "lat": 32.06,
+      "lng": 118.83,
+      "precision": "high",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "紫金山南麓，明清皇家陵寝之首，神道石象路。",
+      "matchNames": [
+        "明孝陵"
+      ]
+    },
+    {
+      "id": "ming-changling",
+      "name": "长陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明成祖朱棣",
+      "kind": "帝陵",
+      "year": 1424,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.25,
+      "lng": 116.23,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "十三陵首陵，规模最大，祾恩殿楠木柱。"
+    },
+    {
+      "id": "ming-xianling",
+      "name": "献陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明仁宗朱高炽",
+      "kind": "帝陵",
+      "year": 1425,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.245,
+      "lng": 116.22,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "十三陵中简朴的一座，未对公众开放。"
+    },
+    {
+      "id": "ming-jingling",
+      "name": "景陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明宣宗朱瞻基",
+      "kind": "帝陵",
+      "year": 1435,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.255,
+      "lng": 116.245,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "宣德皇帝与皇后合葬陵。"
+    },
+    {
+      "id": "ming-yuling",
+      "name": "裕陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明英宗朱祁镇",
+      "kind": "帝陵",
+      "year": 1464,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.26,
+      "lng": 116.253,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "十三陵中开放参观的陵之一，地宫可入。"
+    },
+    {
+      "id": "ming-maoling",
+      "name": "茂陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明宪宗朱见深",
+      "kind": "帝陵",
+      "year": 1487,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.257,
+      "lng": 116.261,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "成化皇帝陵。"
+    },
+    {
+      "id": "ming-tailing",
+      "name": "泰陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明孝宗朱祐樘",
+      "kind": "帝陵",
+      "year": 1505,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.263,
+      "lng": 116.27,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "弘治皇帝陵。"
+    },
+    {
+      "id": "ming-kangling",
+      "name": "康陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明武宗朱厚照",
+      "kind": "帝陵",
+      "year": 1521,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.272,
+      "lng": 116.278,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "正德皇帝陵，近年曾开放预约参观。"
+    },
+    {
+      "id": "ming-yongling",
+      "name": "永陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明世宗朱厚熜",
+      "kind": "帝陵",
+      "year": 1567,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.268,
+      "lng": 116.285,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "嘉靖皇帝陵，规模仅次于长陵。"
+    },
+    {
+      "id": "ming-zhaoling",
+      "name": "昭陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明穆宗朱载坖",
+      "kind": "帝陵",
+      "year": 1572,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.258,
+      "lng": 116.293,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "隆庆皇帝陵，十三陵中已开放参观。"
+    },
+    {
+      "id": "ming-dingling",
+      "name": "定陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明神宗朱翊钧",
+      "kind": "帝陵",
+      "year": 1620,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.253,
+      "lng": 116.3,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "万历皇帝陵，唯一主动发掘的明帝陵，地宫开放。"
+    },
+    {
+      "id": "ming-qingling",
+      "name": "庆陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明光宗朱常洛",
+      "kind": "帝陵",
+      "year": 1620,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.246,
+      "lng": 116.31,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "泰昌皇帝陵。"
+    },
+    {
+      "id": "ming-deling",
+      "name": "德陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明熹宗朱由校",
+      "kind": "帝陵",
+      "year": 1627,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.24,
+      "lng": 116.318,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "天启皇帝陵。"
+    },
+    {
+      "id": "ming-siling",
+      "name": "思陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明思宗朱由检",
+      "kind": "帝陵",
+      "year": 1644,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "昌平区",
+      "lat": 40.236,
+      "lng": 116.327,
+      "precision": "mid",
+      "status": "未开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "崇祯帝与周皇后合葬，十三陵中最后一座。"
+    },
+    {
+      "id": "ming-jingtailing",
+      "name": "景泰陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明代宗朱祁钰",
+      "kind": "帝陵",
+      "year": 1457,
+      "province": "北京市",
+      "city": "北京市",
+      "county": "海淀区",
+      "lat": 39.995,
+      "lng": 116.235,
+      "precision": "mid",
+      "status": "遗址",
+      "tags": [
+        "国保"
+      ],
+      "note": "玉泉山北麓，未入十三陵的明代宗陵。"
+    },
+    {
+      "id": "ming-xianling2",
+      "name": "明显陵",
+      "dynasty": "明",
+      "era": "明",
+      "owner": "明睿宗朱祐杬（追尊）",
+      "kind": "追尊陵",
+      "year": 1519,
+      "province": "湖北省",
+      "city": "荆门市",
+      "county": "钟祥市",
+      "lat": 31.21,
+      "lng": 112.63,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保",
+        "4A"
+      ],
+      "note": "嘉靖皇帝父母陵，明清皇家陵寝中唯一在湖北的世遗点。"
+    },
+    {
+      "id": "qing-yongling",
+      "name": "永陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清肇祖等四祖",
+      "kind": "追尊陵",
+      "year": 1598,
+      "province": "辽宁省",
+      "city": "抚顺市",
+      "county": "新宾满族自治县",
+      "lat": 41.72,
+      "lng": 125.02,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保"
+      ],
+      "note": "关外三陵之首，清皇室祖先陵。"
+    },
+    {
+      "id": "qing-fuling",
+      "name": "福陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清太祖努尔哈赤",
+      "kind": "帝陵",
+      "year": 1629,
+      "province": "辽宁省",
+      "city": "沈阳市",
+      "county": "浑南区",
+      "lat": 41.845,
+      "lng": 123.59,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保",
+        "4A"
+      ],
+      "note": "沈阳东陵，努尔哈赤与孝慈高皇后陵。"
+    },
+    {
+      "id": "qing-zhaoling",
+      "name": "昭陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清太宗皇太极",
+      "kind": "帝陵",
+      "year": 1643,
+      "province": "辽宁省",
+      "city": "沈阳市",
+      "county": "皇姑区",
+      "lat": 41.855,
+      "lng": 123.425,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "国保",
+        "4A"
+      ],
+      "note": "沈阳北陵，皇太极与孝端文皇后陵，关外三陵中规模最大。"
+    },
+    {
+      "id": "qing-xiaoling",
+      "name": "孝陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清世祖顺治",
+      "kind": "帝陵",
+      "year": 1661,
+      "province": "河北省",
+      "city": "唐山市",
+      "county": "遵化市",
+      "lat": 40.187,
+      "lng": 117.657,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清东陵首陵，顺治帝陵，神道石像生最长。"
+    },
+    {
+      "id": "qing-jingling",
+      "name": "景陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清圣祖康熙",
+      "kind": "帝陵",
+      "year": 1722,
+      "province": "河北省",
+      "city": "唐山市",
+      "county": "遵化市",
+      "lat": 40.192,
+      "lng": 117.68,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清东陵内康熙帝陵。"
+    },
+    {
+      "id": "qing-yuling",
+      "name": "裕陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清高宗乾隆",
+      "kind": "帝陵",
+      "year": 1735,
+      "province": "河北省",
+      "city": "唐山市",
+      "county": "遵化市",
+      "lat": 40.18,
+      "lng": 117.68,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清东陵内乾隆帝陵，地宫石雕与佛经雕刻极精。"
+    },
+    {
+      "id": "qing-dingling",
+      "name": "定陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清文宗咸丰",
+      "kind": "帝陵",
+      "year": 1861,
+      "province": "河北省",
+      "city": "唐山市",
+      "county": "遵化市",
+      "lat": 40.175,
+      "lng": 117.655,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清东陵内咸丰帝陵。"
+    },
+    {
+      "id": "qing-huiling",
+      "name": "惠陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清穆宗同治",
+      "kind": "帝陵",
+      "year": 1875,
+      "province": "河北省",
+      "city": "唐山市",
+      "county": "遵化市",
+      "lat": 40.17,
+      "lng": 117.665,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清东陵内同治帝陵，清东陵最晚的帝陵。"
+    },
+    {
+      "id": "qing-dingdong",
+      "name": "定东陵（慈禧）",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "慈禧太后",
+      "kind": "后陵",
+      "year": 1908,
+      "province": "河北省",
+      "city": "唐山市",
+      "county": "遵化市",
+      "lat": 40.188,
+      "lng": 117.675,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清东陵内慈禧陵，隆恩殿贴金装饰奢华。"
+    },
+    {
+      "id": "qing-tailing",
+      "name": "泰陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清世宗雍正",
+      "kind": "帝陵",
+      "year": 1735,
+      "province": "河北省",
+      "city": "保定市",
+      "county": "易县",
+      "lat": 39.365,
+      "lng": 115.335,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清西陵首陵，雍正帝陵，西陵由此开辟。"
+    },
+    {
+      "id": "qing-changling",
+      "name": "昌陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清仁宗嘉庆",
+      "kind": "帝陵",
+      "year": 1820,
+      "province": "河北省",
+      "city": "保定市",
+      "county": "易县",
+      "lat": 39.35,
+      "lng": 115.345,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清西陵内嘉庆帝陵。"
+    },
+    {
+      "id": "qing-muling",
+      "name": "慕陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清宣宗道光",
+      "kind": "帝陵",
+      "year": 1850,
+      "province": "河北省",
+      "city": "保定市",
+      "county": "易县",
+      "lat": 39.345,
+      "lng": 115.31,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清西陵内道光帝陵，以金丝楠木雕龙殿著称。"
+    },
+    {
+      "id": "qing-chongling",
+      "name": "崇陵",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "清德宗光绪",
+      "kind": "帝陵",
+      "year": 1908,
+      "province": "河北省",
+      "city": "保定市",
+      "county": "易县",
+      "lat": 39.34,
+      "lng": 115.355,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "世遗",
+        "5A",
+        "国保"
+      ],
+      "note": "清西陵内光绪帝陵，地宫已开放。"
+    },
+    {
+      "id": "qing-puyi",
+      "name": "溥仪墓",
+      "dynasty": "清",
+      "era": "清",
+      "owner": "宣统帝溥仪",
+      "kind": "帝陵",
+      "year": 1995,
+      "province": "河北省",
+      "city": "保定市",
+      "county": "易县",
+      "lat": 39.355,
+      "lng": 115.36,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [],
+      "note": "清西陵外华龙皇家陵园，末代皇帝骨灰迁葬处。"
+    },
+    {
+      "id": "tubo-wangling",
+      "name": "藏王墓",
+      "dynasty": "吐蕃",
+      "era": "边疆",
+      "owner": "吐蕃赞普松赞干布等",
+      "kind": "王陵",
+      "year": 650,
+      "province": "西藏自治区",
+      "city": "山南市",
+      "county": "琼结县",
+      "lat": 29.04,
+      "lng": 91.68,
+      "precision": "mid",
+      "status": "开放",
+      "tags": [
+        "国保"
+      ],
+      "note": "琼结木惹山，吐蕃王朝赞普陵墓群，松赞干布陵在其中。"
+    }
+  ]
+}

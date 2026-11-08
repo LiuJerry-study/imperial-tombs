@@ -1,0 +1,604 @@
+{
+  "qin-shihuang": {
+    "lat": 34.381381,
+    "lng": 109.253828,
+    "osmName": "秦始皇帝陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "qin-ershi": {
+    "lat": 34.194225,
+    "lng": 108.979786,
+    "osmName": "秦二世陵遗址公园",
+    "region": "guanzhong",
+    "deltaKm": 0.57
+  },
+  "han-changling": {
+    "lat": 34.436945,
+    "lng": 108.887131,
+    "osmName": "长陵博物馆",
+    "region": "guanzhong",
+    "deltaKm": 0.99
+  },
+  "han-anling": {
+    "lat": 34.42305,
+    "lng": 108.841391,
+    "osmName": "汉惠帝安陵",
+    "region": "guanzhong",
+    "deltaKm": 0.01
+  },
+  "han-baling": {
+    "lat": 34.238086,
+    "lng": 109.110824,
+    "osmName": "汉文帝霸陵（江村大墓）",
+    "region": "guanzhong",
+    "deltaKm": 6.23
+  },
+  "han-yangling": {
+    "lat": 34.443313,
+    "lng": 108.942251,
+    "osmName": "汉景帝阳陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "han-maoling": {
+    "lat": 34.34095,
+    "lng": 108.581084,
+    "osmName": "茂陵博物馆",
+    "region": "guanzhong",
+    "deltaKm": 1.13
+  },
+  "han-pingling": {
+    "lat": 34.361824,
+    "lng": 108.640363,
+    "osmName": "平陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "han-duling": {
+    "lat": 34.181051,
+    "lng": 109.022677,
+    "osmName": "杜陵",
+    "region": "guanzhong",
+    "deltaKm": 0.01
+  },
+  "han-yanling": {
+    "lat": 34.374881,
+    "lng": 108.698002,
+    "osmName": "汉成帝延陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "han-taishanghuang": {
+    "lat": 34.692724,
+    "lng": 109.2149,
+    "osmName": "汉太上皇陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "han-guangwu": {
+    "lat": 34.84112,
+    "lng": 112.588867,
+    "osmName": "汉光武帝陵",
+    "region": "gongyi",
+    "deltaKm": 3.81
+  },
+  "han-xiandi": {
+    "lat": 35.36332,
+    "lng": 113.435741,
+    "osmName": "汉献帝禅陵",
+    "region": "xiuwu",
+    "deltaKm": 14.09
+  },
+  "caowei-caocao": {
+    "lat": 36.242687,
+    "lng": 114.260325,
+    "osmName": "曹操高陵遗址博物馆",
+    "region": "anyang",
+    "deltaKm": 4.92
+  },
+  "beiwei-yonggu": {
+    "lat": 40.280241,
+    "lng": 113.345855,
+    "osmName": "方山永固陵",
+    "region": "datong",
+    "deltaKm": 17.15
+  },
+  "beiwei-changling": {
+    "lat": 34.76651,
+    "lng": 112.418572,
+    "osmName": "北魏孝文帝长陵",
+    "region": "gongyi",
+    "deltaKm": 0.74
+  },
+  "beiqi-wuning": {
+    "lat": 36.34327,
+    "lng": 114.353889,
+    "osmName": "文宣帝高洋墓",
+    "region": "anyang",
+    "deltaKm": 5.36
+  },
+  "beizhou-xiaoling": {
+    "lat": 34.461227,
+    "lng": 108.820437,
+    "osmName": "北周孝陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "beizhou-chengling": {
+    "lat": 34.832762,
+    "lng": 109.143983,
+    "osmName": "北周文帝成陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "song-chuning": {
+    "lat": 32.064132,
+    "lng": 118.922225,
+    "osmName": "初宁陵石刻",
+    "region": "nanjing",
+    "deltaKm": 3.99
+  },
+  "sui-wendi": {
+    "lat": 34.288034,
+    "lng": 108.022742,
+    "osmName": "隋文帝泰陵",
+    "region": "guanzhong",
+    "deltaKm": 0.01
+  },
+  "sui-yangdi": {
+    "lat": 32.421236,
+    "lng": 119.394677,
+    "osmName": "隋炀帝陵遗址游客中心",
+    "region": "yangzhou",
+    "deltaKm": 3.32
+  },
+  "tang-xianling": {
+    "lat": 34.699622,
+    "lng": 109.131291,
+    "osmName": "唐高祖献陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-zhaoling": {
+    "lat": 34.634344,
+    "lng": 108.483915,
+    "osmName": "唐昭陵",
+    "region": "guanzhong",
+    "deltaKm": 0.01
+  },
+  "tang-qianling": {
+    "lat": 34.575481,
+    "lng": 108.213872,
+    "osmName": "唐乾陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-dingling": {
+    "lat": 34.867174,
+    "lng": 109.147233,
+    "osmName": "唐定陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-qiaoling": {
+    "lat": 34.987977,
+    "lng": 109.468001,
+    "osmName": "唐桥陵",
+    "region": "guanzhong",
+    "deltaKm": 6.98
+  },
+  "tang-tailing": {
+    "lat": 35.040689,
+    "lng": 109.667373,
+    "osmName": "唐玄宗泰陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-yuanling": {
+    "lat": 34.867418,
+    "lng": 109.087637,
+    "osmName": "唐代宗元陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-jingling": {
+    "lat": 35.009134,
+    "lng": 109.51004,
+    "osmName": "景陵神道",
+    "region": "guanzhong",
+    "deltaKm": 9.35
+  },
+  "tang-zhangling": {
+    "lat": 34.881354,
+    "lng": 109.118913,
+    "osmName": "唐文宗章陵",
+    "region": "guanzhong",
+    "deltaKm": 0.01
+  },
+  "tang-duanling": {
+    "lat": 34.696412,
+    "lng": 109.086444,
+    "osmName": "唐武宗端陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-jianling2": {
+    "lat": 34.878056,
+    "lng": 109.051818,
+    "osmName": "唐懿宗简陵",
+    "region": "guanzhong",
+    "deltaKm": 0.01
+  },
+  "tang-jingling2": {
+    "lat": 34.571015,
+    "lng": 108.266004,
+    "osmName": "唐僖宗靖陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-heling": {
+    "lat": 34.639704,
+    "lng": 112.795769,
+    "osmName": "唐昭宗和陵",
+    "region": "gongyi",
+    "deltaKm": 9.04
+  },
+  "tang-huiling": {
+    "lat": 34.974779,
+    "lng": 109.520688,
+    "osmName": "唐惠陵",
+    "region": "guanzhong",
+    "deltaKm": 0
+  },
+  "tang-gongling": {
+    "lat": 34.633261,
+    "lng": 112.811016,
+    "osmName": "唐恭陵",
+    "region": "gongyi",
+    "deltaKm": 2.68
+  },
+  "nantang-erling": {
+    "lat": 31.884416,
+    "lng": 118.73382,
+    "osmName": "南唐二陵",
+    "region": "nanjing",
+    "deltaKm": 5.58
+  },
+  "qianshu-yongling": {
+    "lat": 30.676078,
+    "lng": 104.044499,
+    "osmName": "永陵",
+    "region": "chengdu",
+    "deltaKm": 0.33
+  },
+  "min-wangshenzhi": {
+    "lat": 26.155642,
+    "lng": 119.31249,
+    "osmName": "闽王王审知墓",
+    "region": "fuzhou",
+    "deltaKm": 3.34
+  },
+  "nanhan-erling": {
+    "lat": 23.04967,
+    "lng": 113.377576,
+    "osmName": "南汉二陵博物馆",
+    "region": "guangzhou",
+    "deltaKm": 1.27
+  },
+  "song-yongan": {
+    "lat": 34.664075,
+    "lng": 112.961766,
+    "osmName": "永安陵",
+    "region": "gongyi",
+    "deltaKm": 10.13
+  },
+  "song-yongchang": {
+    "lat": 34.665442,
+    "lng": 112.954564,
+    "osmName": "永昌陵",
+    "region": "gongyi",
+    "deltaKm": 8.4
+  },
+  "song-yongxi": {
+    "lat": 34.674059,
+    "lng": 112.944808,
+    "osmName": "永熙陵",
+    "region": "gongyi",
+    "deltaKm": 6.62
+  },
+  "song-yongding": {
+    "lat": 34.704884,
+    "lng": 112.974583,
+    "osmName": "永定陵",
+    "region": "gongyi",
+    "deltaKm": 8.81
+  },
+  "song-yongzhao": {
+    "lat": 34.744476,
+    "lng": 112.98006,
+    "osmName": "永昭陵",
+    "region": "gongyi",
+    "deltaKm": 1.73
+  },
+  "song-yonghou": {
+    "lat": 34.746516,
+    "lng": 112.972707,
+    "osmName": "永厚陵",
+    "region": "gongyi",
+    "deltaKm": 1.84
+  },
+  "song-yongyu": {
+    "lat": 34.651738,
+    "lng": 112.916004,
+    "osmName": "永裕陵",
+    "region": "gongyi",
+    "deltaKm": 12.89
+  },
+  "song-yongtai": {
+    "lat": 34.654033,
+    "lng": 112.907855,
+    "osmName": "永泰陵",
+    "region": "gongyi",
+    "deltaKm": 13.67
+  },
+  "song-liuling": {
+    "lat": 29.936188,
+    "lng": 120.696293,
+    "osmName": "宋六陵",
+    "region": "shaoxing",
+    "deltaKm": 5.8
+  },
+  "liao-zuling": {
+    "lat": 43.879683,
+    "lng": 119.113566,
+    "osmName": "辽祖陵黑龙门",
+    "region": "chifeng",
+    "deltaKm": 24.56
+  },
+  "jin-jinling": {
+    "lat": 39.760677,
+    "lng": 115.892136,
+    "osmName": "北窖金陵垭口",
+    "region": "beijing",
+    "deltaKm": 6.7
+  },
+  "xixia-wangling": {
+    "lat": 38.441981,
+    "lng": 105.970948,
+    "osmName": "西夏王陵",
+    "region": "yinchuan",
+    "deltaKm": 1.67
+  },
+  "yuan-chengjisihan": {
+    "lat": 39.371243,
+    "lng": 109.779066,
+    "osmName": "成吉思汗陵",
+    "region": "ordos",
+    "deltaKm": 0.95
+  },
+  "ming-zuling": {
+    "lat": 33.086437,
+    "lng": 118.471893,
+    "osmName": "明祖陵",
+    "region": "fengyang",
+    "deltaKm": 7.07
+  },
+  "ming-huangling": {
+    "lat": 32.814061,
+    "lng": 117.519059,
+    "osmName": "明皇陵",
+    "region": "fengyang",
+    "deltaKm": 6.22
+  },
+  "ming-xiaoling": {
+    "lat": 32.062083,
+    "lng": 118.834675,
+    "osmName": "明孝陵",
+    "region": "nanjing",
+    "deltaKm": 0.5
+  },
+  "ming-changling": {
+    "lat": 40.299773,
+    "lng": 116.243194,
+    "osmName": "长陵",
+    "region": "beijing",
+    "deltaKm": 5.65
+  },
+  "ming-xianling": {
+    "lat": 40.30556,
+    "lng": 116.237563,
+    "osmName": "献陵",
+    "region": "beijing",
+    "deltaKm": 6.9
+  },
+  "ming-jingling": {
+    "lat": 40.298743,
+    "lng": 116.251529,
+    "osmName": "景陵",
+    "region": "beijing",
+    "deltaKm": 4.9
+  },
+  "ming-yuling": {
+    "lat": 40.313879,
+    "lng": 116.23188,
+    "osmName": "裕陵",
+    "region": "beijing",
+    "deltaKm": 6.25
+  },
+  "ming-maoling": {
+    "lat": 40.314104,
+    "lng": 116.226513,
+    "osmName": "茂陵",
+    "region": "beijing",
+    "deltaKm": 6.99
+  },
+  "ming-tailing": {
+    "lat": 40.323416,
+    "lng": 116.216668,
+    "osmName": "泰陵",
+    "region": "beijing",
+    "deltaKm": 8.1
+  },
+  "ming-kangling": {
+    "lat": 40.319175,
+    "lng": 116.204347,
+    "osmName": "康陵",
+    "region": "beijing",
+    "deltaKm": 8.16
+  },
+  "ming-yongling": {
+    "lat": 40.288233,
+    "lng": 116.250292,
+    "osmName": "永陵",
+    "region": "beijing",
+    "deltaKm": 3.71
+  },
+  "ming-zhaoling": {
+    "lat": 40.29,
+    "lng": 116.212033,
+    "osmName": "昭陵",
+    "region": "beijing",
+    "deltaKm": 7.74
+  },
+  "ming-dingling": {
+    "lat": 40.294461,
+    "lng": 116.217378,
+    "osmName": "定陵",
+    "region": "beijing",
+    "deltaKm": 8.39
+  },
+  "ming-qingling": {
+    "lat": 40.307657,
+    "lng": 116.233163,
+    "osmName": "庆陵",
+    "region": "beijing",
+    "deltaKm": 9.46
+  },
+  "ming-deling": {
+    "lat": 40.28837,
+    "lng": 116.258171,
+    "osmName": "德陵",
+    "region": "beijing",
+    "deltaKm": 7.4
+  },
+  "ming-siling": {
+    "lat": 40.268578,
+    "lng": 116.192025,
+    "osmName": "思陵",
+    "region": "beijing",
+    "deltaKm": 12.01
+  },
+  "ming-jingtailing": {
+    "lat": 40.002449,
+    "lng": 116.236049,
+    "osmName": "景泰陵",
+    "region": "beijing",
+    "deltaKm": 0.83
+  },
+  "ming-xianling2": {
+    "lat": 31.211963,
+    "lng": 112.633506,
+    "osmName": "明显陵",
+    "region": "zhongxiang",
+    "deltaKm": 0.4
+  },
+  "qing-yongling": {
+    "lat": 41.708202,
+    "lng": 124.796943,
+    "osmName": "清永陵",
+    "region": "shenyang",
+    "deltaKm": 18.56
+  },
+  "qing-fuling": {
+    "lat": 41.832447,
+    "lng": 123.583737,
+    "osmName": "清福陵",
+    "region": "shenyang",
+    "deltaKm": 1.49
+  },
+  "qing-zhaoling": {
+    "lat": 41.850887,
+    "lng": 123.421294,
+    "osmName": "清昭陵",
+    "region": "shenyang",
+    "deltaKm": 0.55
+  },
+  "qing-xiaoling": {
+    "lat": 40.193826,
+    "lng": 117.650905,
+    "osmName": "孝陵（顺治）",
+    "region": "zunhua",
+    "deltaKm": 0.92
+  },
+  "qing-jingling": {
+    "lat": 40.189274,
+    "lng": 117.662479,
+    "osmName": "景陵（康熙）",
+    "region": "zunhua",
+    "deltaKm": 1.52
+  },
+  "qing-yuling": {
+    "lat": 40.187445,
+    "lng": 117.645578,
+    "osmName": "裕陵（乾隆）",
+    "region": "zunhua",
+    "deltaKm": 3.04
+  },
+  "qing-dingling": {
+    "lat": 40.186509,
+    "lng": 117.631375,
+    "osmName": "定陵（咸丰）",
+    "region": "zunhua",
+    "deltaKm": 2.38
+  },
+  "qing-huiling": {
+    "lat": 40.170399,
+    "lng": 117.695969,
+    "osmName": "惠陵（同治）",
+    "region": "zunhua",
+    "deltaKm": 2.63
+  },
+  "qing-dingdong": {
+    "lat": 40.187835,
+    "lng": 117.639595,
+    "osmName": "菩陀峪定东陵（慈禧）",
+    "region": "zunhua",
+    "deltaKm": 3.01
+  },
+  "qing-tailing": {
+    "lat": 39.369762,
+    "lng": 115.344928,
+    "osmName": "泰陵（雍正）",
+    "region": "yixian",
+    "deltaKm": 1
+  },
+  "qing-changling": {
+    "lat": 39.362913,
+    "lng": 115.339627,
+    "osmName": "昌陵（嘉庆）",
+    "region": "yixian",
+    "deltaKm": 1.51
+  },
+  "qing-muling": {
+    "lat": 39.34232,
+    "lng": 115.296055,
+    "osmName": "慕陵（道光）",
+    "region": "yixian",
+    "deltaKm": 1.24
+  },
+  "qing-chongling": {
+    "lat": 39.39532,
+    "lng": 115.378463,
+    "osmName": "崇陵（光绪）",
+    "region": "yixian",
+    "deltaKm": 6.47
+  },
+  "tubo-wangling": {
+    "lat": 29.016428,
+    "lng": 91.682602,
+    "osmName": "བོད་རྗེ་པང་ས 藏王墓",
+    "region": "tibet",
+    "deltaKm": 2.63
+  }
+}

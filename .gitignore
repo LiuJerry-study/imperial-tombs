@@ -1,0 +1,14 @@
+# OS / 编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.log
+
+# 依赖 / 构建产物（本项目本来就没有，防止以后误提交）
+node_modules/
+dist/
+
+# 本地临时目录
+.dsh-tmp/
+.dsh-mcp-shots/

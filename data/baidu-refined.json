@@ -1,0 +1,226 @@
+{
+  "han-weiling": {
+    "lat": 34.390464,
+    "lng": 108.739085,
+    "poiName": "汉元帝渭陵",
+    "poiAddr": "陕西省咸阳市渭城区周陵街道",
+    "deltaKm": 3.82,
+    "query": "渭陵 咸阳"
+  },
+  "han-yiling": {
+    "lat": 34.400789,
+    "lng": 108.764687,
+    "poiName": "汉哀帝义陵",
+    "poiAddr": "咸阳市渭城区周陵乡南贺村",
+    "deltaKm": 10.82,
+    "query": "汉哀帝义陵"
+  },
+  "han-kangling": {
+    "lat": 34.398026,
+    "lng": 108.71234,
+    "poiName": "汉平帝康陵",
+    "poiAddr": "陕西省咸阳市渭城区咸宋路",
+    "deltaKm": 11.02,
+    "query": "汉平帝康陵"
+  },
+  "beiwei-jingling": {
+    "lat": 34.734484,
+    "lng": 112.407262,
+    "poiName": "洛阳古墓博物馆-景陵",
+    "poiAddr": "洛阳市老城区北13公里(洛阳古代艺术博物馆西院)",
+    "deltaKm": 4.46,
+    "query": "北魏宣武帝景陵 洛阳"
+  },
+  "xiwei-yongling": {
+    "lat": 34.739345,
+    "lng": 109.308342,
+    "poiName": "西魏文帝永陵",
+    "poiAddr": "渭南市富平县留古镇",
+    "deltaKm": 17.57,
+    "query": "西魏文帝永陵 富平"
+  },
+  "qi-yongan": {
+    "lat": 32.071398,
+    "lng": 119.660574,
+    "poiName": "南齐萧承之永安陵石刻",
+    "poiAddr": "江苏省镇江市丹阳市经济技术开发区麒麟路与古井路交叉路口往东南约100米",
+    "deltaKm": 2.3,
+    "query": "齐宣帝永安陵 丹阳"
+  },
+  "qi-xiuan": {
+    "lat": 32.062119,
+    "lng": 119.67871,
+    "poiName": "齐景帝萧道生修安陵石刻",
+    "poiAddr": "江苏省镇江市丹阳市仙泉路",
+    "deltaKm": 1.97,
+    "query": "齐景帝修安陵 丹阳"
+  },
+  "qi-xingan": {
+    "lat": 32.012522,
+    "lng": 119.653098,
+    "poiName": "齐明帝萧鸾兴安陵石刻",
+    "poiAddr": "江苏省镇江市丹阳市G42(沪蓉高速公路)",
+    "deltaKm": 5.87,
+    "query": "齐明帝兴安陵 丹阳"
+  },
+  "liang-jianling": {
+    "lat": 32.013523,
+    "lng": 119.653075,
+    "poiName": "梁文帝萧顺之建陵石刻",
+    "poiAddr": "江苏省镇江市丹阳市G42(沪蓉高速公路)",
+    "deltaKm": 5.18,
+    "query": "梁文帝建陵 丹阳"
+  },
+  "liang-xiuling": {
+    "lat": 32.015148,
+    "lng": 119.653189,
+    "poiName": "南朝帝陵石刻梁武帝萧衍神道",
+    "poiAddr": "江苏省镇江市丹阳市经济技术开发区皇业路",
+    "deltaKm": 4.17,
+    "query": "梁武帝修陵 丹阳"
+  },
+  "liang-zhuangling": {
+    "lat": 32.018163,
+    "lng": 119.652609,
+    "poiName": "梁简文帝萧纲庄陵",
+    "poiAddr": "皇业路",
+    "deltaKm": 4.23,
+    "query": "梁简文帝庄陵 丹阳"
+  },
+  "chen-wanan": {
+    "lat": 31.966208,
+    "lng": 118.881398,
+    "poiName": "万安陵石刻",
+    "poiAddr": "842路",
+    "deltaKm": 1.28,
+    "query": "陈武帝万安陵 南京"
+  },
+  "tang-jianling": {
+    "lat": 34.602459,
+    "lng": 108.429502,
+    "poiName": "毕沅唐肃宗建陵碑",
+    "poiAddr": "陕西省咸阳市礼泉县昭陵镇唐肃宗建陵北823米",
+    "deltaKm": 18.13,
+    "query": "唐建陵 礼泉"
+  },
+  "tang-chongling": {
+    "lat": 34.70294,
+    "lng": 108.827615,
+    "poiName": "唐德宗崇陵",
+    "poiAddr": "陕西省咸阳市泾阳县嵯峨山",
+    "deltaKm": 13.96,
+    "query": "唐崇陵 泾阳"
+  },
+  "tang-fengling": {
+    "lat": 34.918889,
+    "lng": 109.196074,
+    "poiName": "唐丰陵景区游客服务中心",
+    "poiAddr": "陕西省渭南市富平县曹村镇陵前村虎头山上唐顺宗丰陵",
+    "deltaKm": 10.82,
+    "query": "唐丰陵 富平"
+  },
+  "tang-guangling": {
+    "lat": 35.033786,
+    "lng": 109.547605,
+    "poiName": "光陵村",
+    "poiAddr": "渭南市蒲城县",
+    "deltaKm": 12.19,
+    "query": "唐光陵 蒲城"
+  },
+  "tang-zhuangling": {
+    "lat": 34.706662,
+    "lng": 109.017921,
+    "poiName": "唐敬宗庄陵",
+    "poiAddr": "咸阳市三原县廉家村道",
+    "deltaKm": 8.39,
+    "query": "唐庄陵 三原"
+  },
+  "tang-zhenling": {
+    "lat": 34.690479,
+    "lng": 108.646808,
+    "poiName": "唐宣宗贞陵",
+    "poiAddr": "陕西省咸阳市泾阳县白王镇崔黄村东北",
+    "deltaKm": 3.3,
+    "query": "唐贞陵 泾阳"
+  },
+  "houzhou-qingling": {
+    "lat": 34.562057,
+    "lng": 113.696474,
+    "poiName": "柴荣墓·后周皇陵庆陵",
+    "poiAddr": "郭店镇陵后村村民委员会西南",
+    "deltaKm": 17.04,
+    "query": "后周庆陵 新郑"
+  },
+  "wuyue-qianwang": {
+    "lat": 30.237754,
+    "lng": 119.720632,
+    "poiName": "钱王陵园-西南门",
+    "poiAddr": "杭州市临安区",
+    "deltaKm": 0.68,
+    "query": "钱王陵 临安"
+  },
+  "qing-puyi": {
+    "lat": 39.398582,
+    "lng": 115.374245,
+    "poiName": "溥仪墓",
+    "poiAddr": "河北省保定市易县梁格庄镇崇陵后华龙皇家陵园",
+    "deltaKm": 5,
+    "query": "溥仪墓 易县"
+  },
+  "liao-qingling": {
+    "lat": 44.273292,
+    "lng": 118.442488,
+    "poiName": "辽庆陵",
+    "poiAddr": "内蒙古自治区赤峰市巴林右旗索博日嘎镇",
+    "deltaKm": 92.79,
+    "query": "辽庆陵 巴林右旗"
+  },
+  "liao-huailing": {
+    "lat": 44.006694,
+    "lng": 118.841271,
+    "poiName": "辽怀陵",
+    "poiAddr": "幸福之路苏木",
+    "deltaKm": 66.01,
+    "query": "辽怀陵 巴林右旗"
+  },
+  "houshu-heling": {
+    "lat": 30.741256,
+    "lng": 104.119562,
+    "poiName": "孟知祥墓(不对外开放)",
+    "poiAddr": "四川省成都市成华区蜀陵路孟知祥墓(天岭路东公交站东)",
+    "deltaKm": 1.33,
+    "query": "孟知祥墓 成都"
+  },
+  "han-taishanghuang": {
+    "lat": 34.693138,
+    "lng": 109.21459,
+    "poiName": "汉太上皇陵",
+    "poiAddr": "陕西省西安市阎良区Y301",
+    "deltaKm": 0.06,
+    "query": "汉太上皇陵 富平"
+  },
+  "houzhou-songling": {
+    "lat": 34.538268,
+    "lng": 113.694436,
+    "poiName": "后周太祖郭威陵",
+    "poiAddr": "郑州市新郑市黄金大道与紫荆山南路交叉口东200米",
+    "deltaKm": 13.23,
+    "query": "后周皇陵 新郑"
+  },
+  "houzhou-shunling": {
+    "lat": 34.564088,
+    "lng": 113.700142,
+    "poiName": "后周皇陵(顺陵)",
+    "poiAddr": "河南省郑州市新郑市郭店镇陵上村东北",
+    "deltaKm": 18.45,
+    "query": "后周皇陵 新郑"
+  },
+  "beiqi-wuning": {
+    "lat": 36.343299,
+    "lng": 114.354204,
+    "poiName": "高洋墓",
+    "poiAddr": "河北省邯郸市磁县湾漳村",
+    "deltaKm": 5.33,
+    "query": "湾漳墓 磁县"
+  }
+}

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>帝陵图志 · 中国历代帝王陵墓地图</title>
+  <meta name="description" content="中国历代帝王陵墓地图：秦始皇陵、汉唐帝陵、明十三陵、清东陵西陵等 122 处帝陵与陵区，支持筛选、路线规划、导出 GPX/GeoJSON。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%23a63a2e'/%3E%3Ctext x='50' y='72' font-size='62' text-anchor='middle' fill='%23fbefdc' font-family='serif'%3E陵%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/app.css?v=20261108e">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <button id="btnMenu" class="icon-btn" title="收起 / 展开侧栏" aria-label="收起或展开侧栏">☰</button>
+      <div class="logo" aria-hidden="true">陵</div>
+      <div class="brand">
+        <h1>帝陵图志</h1>
+        <div class="sub">中国历代帝王陵墓 · 路线规划地图</div>
+      </div>
+      <div class="stats" aria-label="统计">
+        <div class="stat"><b id="statTotal">—</b><span>处帝陵</span></div>
+        <div class="stat"><b id="statEra">—</b><span>个时代</span></div>
+        <div class="stat"><b id="statPlan">0</b><span>站行程</span></div>
+      </div>
+      <div class="spacer"></div>
+      <label class="layer-pick"><span>底图</span>
+        <select id="layerSelect" aria-label="选择底图"></select>
+      </label>
+      <button id="btnAbout" class="hbtn">说明</button>
+    </header>
+
+    <div id="main">
+      <aside id="sidebar" aria-label="帝陵与行程面板">
+        <div class="sb-tabs" role="tablist">
+          <button class="sb-tab active" data-tab="tombs" id="tabTombs" role="tab">帝陵</button>
+          <button class="sb-tab" data-tab="plan" id="tabPlan" role="tab">行程<span class="badge"></span></button>
+        </div>
+
+        <section id="panelTombs" class="panel active" role="tabpanel">
+          <div class="search-wrap">
+            <input id="searchInput" type="search" placeholder="搜索陵名、墓主、地点…" autocomplete="off" aria-label="搜索帝陵">
+            <button id="searchClear" class="search-clear" title="清空搜索" aria-label="清空搜索">×</button>
+          </div>
+          <div id="eraChips" class="chips" aria-label="按时代筛选"></div>
+          <div class="filter-row">
+            <select id="statusSelect" aria-label="按开放状态筛选">
+              <option value="全部">全部状态</option>
+              <option value="开放">开放</option>
+              <option value="遗址">遗址</option>
+              <option value="未开放">未开放</option>
+              <option value="待考">待考</option>
+            </select>
+            <div id="tagChips" class="chips inline" aria-label="按标签筛选"></div>
+          </div>
+          <div class="list-bar">
+            <span id="tombCount">—</span>
+            <div class="list-bar-actions">
+              <button id="btnHideVisited" class="mini-btn" title="隐藏已打卡的陵">只看未去</button>
+              <button id="filterReset" class="mini-btn reset">重置筛选</button>
+            </div>
+          </div>
+          <div id="tombList" class="tomb-list"></div>
+        </section>
+
+        <section id="panelPlan" class="panel" role="tabpanel">
+          <div id="planStats" class="plan-stats"></div>
+          <div class="plan-preset-row">
+            <select id="presetSelect" aria-label="载入路线模板">
+              <option value="">载入路线模板…</option>
+            </select>
+          </div>
+          <div id="planActions" class="plan-actions" style="display:none">
+            <button id="btnOptimize" class="btn ghost">优化顺序</button>
+            <button id="btnClear" class="btn ghost danger">清空行程</button>
+          </div>
+          <div id="planEmpty" class="plan-empty">
+            <p>从地图或「帝陵」列表点选，按 <b>＋</b> 加入行程；也可以直接载入下面的路线灵感。</p>
+            <div class="preset-title">路线灵感 <span>· 点击载入</span></div>
+            <div id="presetList" class="preset-list"></div>
+          </div>
+          <div id="planList" class="plan-list"></div>
+          <div id="planExport" class="plan-export" style="display:none">
+            <div class="export-title">导出 / 导航</div>
+            <div class="export-grid">
+              <button id="btnAmapRoute" class="btn primary">高德驾车路线</button>
+              <button id="btnCopy" class="btn ghost">复制行程</button>
+              <button id="btnGpx" class="btn ghost">GPX</button>
+              <button id="btnGeoJson" class="btn ghost">GeoJSON</button>
+              <button id="btnCsv" class="btn ghost">CSV</button>
+            </div>
+          </div>
+          <div class="plan-tip">里程 / 天数按直线距离估算（公路 ≈ 直线 × 1.32），仅供参考；实际路线以高德导航为准。</div>
+        </section>
+      </aside>
+
+      <div id="mapWrap">
+        <div id="map" tabindex="0" aria-label="帝陵地图，可拖动缩放"></div>
+        <div class="map-controls">
+          <button id="zoomIn" class="map-btn" title="放大" aria-label="放大">＋</button>
+          <button id="zoomOut" class="map-btn" title="缩小" aria-label="缩小">－</button>
+          <button id="btnReset" class="map-btn wide" title="复位到全国视野" aria-label="复位">复位</button>
+        </div>
+        <details class="legend" id="legend" open>
+          <summary>图例</summary>
+          <div id="legendBody"></div>
+        </details>
+        <div id="scalebar" class="scalebar"></div>
+        <div id="attribution" class="attribution"></div>
+        <div id="tileWarn" class="tile-warn" hidden>
+          <span>底图瓦片加载失败，可切换底图或使用「无底图」模式</span>
+          <button id="tileWarnClose" aria-label="关闭提示">×</button>
+        </div>
+        <div id="popup" class="popup" role="dialog" aria-label="帝陵详情"></div>
+        <div id="toast" class="toast" role="status" aria-live="polite"></div>
+      </div>
+    </div>
+
+    <div id="aboutModal" class="modal">
+      <div class="modal-card">
+        <button id="aboutClose" class="modal-close" aria-label="关闭">×</button>
+        <h2>关于这张地图</h2>
+        <div id="aboutBody"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/geo.js?v=20261108e"></script>
+  <script src="js/data.tombs.js?v=20261108e"></script>
+  <script src="js/data.routes.js?v=20261108e"></script>
+  <script src="js/map.js?v=20261108e"></script>
+  <script src="js/app.js?v=20261108e"></script>
+</body>
+</html>
