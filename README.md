@@ -8,7 +8,7 @@
 
 直接双击 **`index.html`** 用浏览器打开（Chrome / Edge / Firefox / Safari 均可）。
 
-**在线版**：部署到 GitHub Pages 后访问 `https://<你的用户名>.github.io/imperial-tombs/`，部署步骤见 [DEPLOY.md](DEPLOY.md)。
+**在线访问**：<https://liujerry-study.github.io/imperial-tombs/> · 仓库：<https://github.com/LiuJerry-study/imperial-tombs>（GitHub Pages，部署步骤见 [DEPLOY.md](DEPLOY.md)）。
 
 - 默认「高德 · 混合」底图：低倍用矢量路网（清晰、有地名），放大到 15 级以上自动切换到卫星影像 + 标注——高德矢量瓦片在草原、荒漠、山地等无细节区域会返回空白瓦片，混用卫星可避免放大后白屏。
 - 也可手动切换「高德 · 矢量」「高德 · 卫星」「OpenStreetMap」「无底图（离线可用）」；纯矢量模式下遇到空白瓦片会自动用同位置卫星影像补位。

@@ -1,5 +1,10 @@
 # GitHub Pages 部署说明
 
+> 当前线上地址：<https://liujerry-study.github.io/imperial-tombs/>
+> 仓库：<https://github.com/LiuJerry-study/imperial-tombs>（Public，Pages 源：`main` 分支根目录）
+>
+> 后续更新：改完文件后 `git add -A && git commit -m "..." && git push`，Pages 会自动重新构建。
+
 这个项目是**纯静态站点**：只有 HTML / CSS / JS，没有后端、没有构建步骤、没有 npm 依赖。
 所以部署到 GitHub Pages 只需要「把仓库推上去 + 在设置里打开 Pages」。
 
